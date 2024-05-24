@@ -290,7 +290,7 @@ for i in range(4):
 
 
 #2 
-name = input("enter your name: ")dd
+name = input("enter your name: ")
 numb = int(input("enter number: "))
 for i in range(numb):
     print(name)
